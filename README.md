@@ -9,9 +9,9 @@ I have created an employee directory with React. In order to create this directo
     * Sort the table by at least one category
     * Filter the users by at least one property.
 
-https://robin-react-emp-directory.herokuapp.com/
-
 https://rswalm.github.io/react-employee-directory/
 
-https://github.com/rswalm/react-employee-directory
+https://github.com/rswalm/react-employee-directory/
+
+https://robin-react-emp-directory.herokuapp.com/
 
