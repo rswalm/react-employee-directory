@@ -8,10 +8,18 @@ I have created an employee directory with React. In order to create this directo
   * The user can do the following:
     * Sort the table by at least one category
     * Filter the users by at least one property.
+    
+![User Directory 1](pic1.jpg)
+![User](pic2.jpg)
 
+# Links
+
+## Deployed Web Application (Github Pages)
 https://rswalm.github.io/react-employee-directory/
 
+## Github Repository
 https://github.com/rswalm/react-employee-directory/
 
+## Deployed Web Application (Heroku)
 https://robin-react-emp-directory.herokuapp.com/
 
