@@ -8,9 +8,10 @@ I have created an employee directory with React. In order to create this directo
   * The user can do the following:
     * Sort the table by at least one category
     * Filter the users by at least one property.
-    
+
 ![User Directory 1](pic1.jpg)
-![User](pic2.jpg)
+![User2](pic2.jpg)
+![user3](pic3.jpg)
 
 # Links
 
