@@ -11,3 +11,7 @@ I have created an employee directory with React. In order to create this directo
 
 https://robin-react-emp-directory.herokuapp.com/
 
+https://rswalm.github.io/react-employee-directory/
+
+https://github.com/rswalm/react-employee-directory
+
